@@ -1,0 +1,2 @@
+https://github.com/SundeepK/CompactCalendarView
+https://www.geeksforgeeks.org/how-to-implement-tabs-viewpager-and-fragment-in-android-using-kotlin/
